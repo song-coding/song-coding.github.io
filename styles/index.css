@@ -13,11 +13,11 @@
 /* 색 변수 모음 */
 :root {
   /* 전체 배경 */
-  --body-bg: #ffffff;
+  --body-bg: #FEF382;
 
   /* 상단 바 */
   /* 상단 바 배경 색 */
-  --header-bg: #FEF382;
+  --header-bg: #ffff;
   /* 상단 바 글자 색 */
   --header-font: #fc8976;
 
