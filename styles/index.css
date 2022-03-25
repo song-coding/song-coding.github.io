@@ -121,7 +121,7 @@ body {
 }
 
 main {
-  width: 1024px;
+  width: 100%;
 }
 
 header {
@@ -201,6 +201,7 @@ nav {
   background: var(--top-banner-bg);
   color: var(--top-banner-font);
   display: flex;
+  justify-content: center;
 }
 
 /* 탑배너 */
