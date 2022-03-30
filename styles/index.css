@@ -385,6 +385,12 @@ nav {
   border-radius: 4px;
 }
 
+/* 버튼 */
+.button_1 {
+ display: block;
+ margin: auto;
+}
+
 /* 프로모션 배너 이미지 */
 
 .promotion-banner-image {
